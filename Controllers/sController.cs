@@ -2,7 +2,7 @@
 
 namespace WebApplication1.Controllers
 {
-    public class saraController : Controller
+    public class sController : Controller
     {
         public IActionResult Index()
         {
