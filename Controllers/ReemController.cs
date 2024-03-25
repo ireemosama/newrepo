@@ -8,5 +8,9 @@ namespace WebApplication1.Controllers
         {
             return View();
         }
+        public IActionResult hello()
+        {
+            return Content("hello from sravia");
+        }
     }
 }
